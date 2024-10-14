@@ -1,7 +1,8 @@
 # Tutorific.AI App
 
 This website is a comprehensive educational assistant designed to help students learn more effectively by offering tutoring, flashcards, writing assistance, and quizzes on any topic. The app features a friendly UI, interactive elements, and smooth transitions to enhance the learning experience.
-
+* Previous commits were removed due to API key exposure.
+* Please use your own API key and put it in .env file. 
 ![Screentshot](image/README/1728830894430.png "Screenshot")
 
 ## Table of Contents
