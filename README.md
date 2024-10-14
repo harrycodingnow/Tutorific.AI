@@ -57,11 +57,11 @@ Video Demo: https://youtu.be/SrRqbPgwV3U
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/GenAITutorApp.git
+   git clone https://github.com/yourusername/Tutorific.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd GenAITutorApp
+   cd Tutorific
    ```
 3. Install dependencies:
    ```bash
